@@ -6,7 +6,7 @@
 - Amo el clean code.
 
 # Mis proyectos
-Revisa mis repos pineados para ver lo que he hecho!!!!
+Revisa mis repos pineados para ver lo que he hecho!!!! Te invito a criticar mi código todo lo que quieras, quiero aprender a escribir buen código.
 
 ## Mis lenguajes
 
