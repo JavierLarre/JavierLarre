@@ -1,7 +1,7 @@
 # Holaas, soy Javier Larré!
-- Estudiante de 3er año de licenciatura en computación UC.
+- Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Nerd.
-- Ayudante en tareas de estructuras de datos (2da vez).
+- Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) (2da vez).
 - Me gusta Touhou y el Metal.
 - Aprendiendo Game Development (y cosas relacionadas a ello).
 - Amo el clean code.
@@ -16,7 +16,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | GDscript | Ya he escrito varias demos en godot, es muy simple y me gusta mucho. |
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser objetos y fuertemente tipado, pero aún no he escrito alguna tech demo en esto. Es muuuucho más fácil escribir clean code acá. |
-| C++ | Algún dia... |
+| C++ | Algún dia lo aprenderé... |
 | Python | He escrito hartas leseras aquí. |
 | Javascript | Puedo usar JS pero no me gustan las nested functions. |
 | HTML/CSS | Soy malo XD prefiero escribir HTML en JS. |
