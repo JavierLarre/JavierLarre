@@ -15,7 +15,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | ------------- | ------------- |
 | GDscript | Ya he escrito varias demos en godot, es muy simple y me gusta mucho. |
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
-| C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser objetos y fuertemente tipado. Es muuuucho más fácil escribir clean code acá. |
+| C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser objetos y fuertemente tipado, pero aún no he escrito alguna tech demo en esto. Es muuuucho más fácil escribir clean code acá. |
 | C++ | Algún dia... |
 | Python | He escrito hartas leseras aquí. |
 | Javascript | Puedo usar JS pero no me gustan las nested functions. |
