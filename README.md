@@ -1,5 +1,5 @@
 # Holaas, soy Javier Larré!
-- Estudiante de 3er año en licenciatura de computación UC.
+- Estudiante de 3er año de licenciatura en computación UC.
 - Nerd.
 - Ayudante en tareas de estructuras de datos (2da vez).
 - Aprendiendo Game Development (y cosas relacionadas a ello).
