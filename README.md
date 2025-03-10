@@ -10,7 +10,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 
 ## Mis lenguajes
 
-| Algunos lenguajes que me gusta usar o en donde he escrito proyectos | Me gusta aprender lenguajes! |
+| Algunos lenguajes que me gusta usar o donde he escrito proyectos. | Me gusta aprender estas cosas. |
 | ------------- | ------------- |
 | GDscript | Ya he escrito varias demos en godot, es muy simple y me gusta mucho. |
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
