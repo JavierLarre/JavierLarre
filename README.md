@@ -16,9 +16,10 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Te invito a criticar mi c
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser objetos y fuertemente tipado. Es muuuucho más fácil escribir clean code acá. |
 | C++ | Algún dia... |
+| Python | He escrito hartas leseras aquí. |
 | Javascript | Puedo usar JS pero no me gustan las nested functions. |
 | HTML/CSS | Soy malo XD prefiero escribir HTML en JS. |
-| Postgres | Puedo escribir consultas para salvar mi vida. |
+| PostgresSQL | Gracias por tanto pgsql perdon por tan poco. |
 
 ## Redes sociales
 
@@ -28,3 +29,4 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Te invito a criticar mi c
 | Linkedin (in progress...) | [Javier Larre](https://www.linkedin.com/in/javier-larre-57aaa82bb/) |
 | Discord | zab_zabieru |
 | Telegram | JavierLarre | 
+| LeetCode | [zabieru](https://leetcode.com/u/zabieru/)
