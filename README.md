@@ -2,6 +2,7 @@
 - Estudiante de 3er año de licenciatura en computación UC.
 - Nerd.
 - Ayudante en tareas de estructuras de datos (2da vez).
+- Me gusta Touhou y el Metal.
 - Aprendiendo Game Development (y cosas relacionadas a ello).
 - Amo el clean code.
 
