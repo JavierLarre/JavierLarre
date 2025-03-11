@@ -17,7 +17,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser fuertemente tipado y tener objetos, pero aún no he escrito alguna tech demo en C#. Es muuuucho más fácil escribir clean code acá. |
 | C++ | Algún dia lo aprenderé... |
-| Python | He escrito hartas leseras aquí. |
+| Python | Actualmente uso y desarrollo el generador de tests para las tareas de EDD (repo privado). |
 | Javascript | Puedo usar JS pero no me gustan las nested functions. |
 | HTML/CSS | Soy malo XD prefiero escribir HTML en JS. |
 | PostgresSQL | Gracias por tanto pgsql perdon por tan poco. |
