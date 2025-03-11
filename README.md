@@ -4,6 +4,7 @@
 - Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) (2da vez).
 - Me gusta [Touhou y el Metal](https://www.youtube.com/watch?v=jyHcFPWjPq4).
 - Aprendiendo Game Development (y cosas relacionadas a ello).
+- Parte del [club GameDev UC](https://www.instagram.com/gamedevcomuc/).
 - Amo el clean code.
 
 # Mis proyectos
