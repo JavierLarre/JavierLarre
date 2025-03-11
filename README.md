@@ -2,7 +2,7 @@
 - Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Nerd.
 - Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) (2da vez).
-- Me gusta Touhou y el Metal.
+- Me gusta [Touhou y el Metal](https://www.youtube.com/watch?v=jyHcFPWjPq4).
 - Aprendiendo Game Development (y cosas relacionadas a ello).
 - Amo el clean code.
 
