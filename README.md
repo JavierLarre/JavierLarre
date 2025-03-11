@@ -14,7 +14,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | Algunos lenguajes que me gusta usar o donde he escrito proyectos. | Me gusta aprender estas cosas. |
 | ------------- | ------------- |
 | GDscript | Ya seguí unos tutoriales y escribí un par de demos en godot, es muy simple y me gusta mucho. |
-| C | Definitivamente uno de mis favoritos, amo manejar memoria y punteros pero extraño los objetos. |
+| C | Definitivamente uno de mis favoritos, amo manejar memoria y utilizar punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser fuertemente tipado y tener objetos, pero aún no he escrito alguna tech demo en C#. Es muuuucho más fácil escribir clean code acá. |
 | C++ | Algún dia lo aprenderé... |
 | Python | Actualmente uso y desarrollo el generador de tests para las tareas de EDD (repo privado). |
