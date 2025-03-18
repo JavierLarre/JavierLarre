@@ -20,7 +20,6 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | C++ | Algún dia lo aprenderé... |
 | Python | Actualmente uso y desarrollo el generador de tests para las tareas de EDD (repo privado). |
 | Javascript | Puedo usar JS pero no me gustan las nested functions. |
-| HTML/CSS | Soy malo XD prefiero escribir HTML en JS. |
 | PostgresSQL | Gracias por tanto pgsql perdon por tan poco. |
 
 ## Redes sociales
