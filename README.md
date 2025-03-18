@@ -5,7 +5,7 @@
 - Me gusta [Touhou y el Metal](https://www.youtube.com/watch?v=jyHcFPWjPq4).
 - Aprendiendo Game Development (y cosas relacionadas a ello).
 - Parte del [club GameDev UC](https://www.instagram.com/gamedevcomuc/).
-- Amo el clean code.
+- I love clean code.
 
 # Mis proyectos
 Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi código todo lo que quieras para que pueda aprender y sacar algo bueno de ello. Si tienes alguna duda sobre ellos no dudes en contactarme!!
