@@ -1,4 +1,5 @@
 # Holaas, soy Javier Larré!
+![mage](https://github.com/JavierLarre/JavierLarre/blob/main/images/mago-meme.gif)
 - Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Nerd.
 - Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) (2da vez).
