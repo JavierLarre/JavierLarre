@@ -5,7 +5,8 @@
 
 - Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Nerd.
-- Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) (2da vez).
+- Ayudante en Tópicos en fundamentos de lenguajes de programación (IIC3560)
+- Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) por dos semestres.
 - Me gusta [Touhou y el Metal](https://www.youtube.com/watch?v=jyHcFPWjPq4).
 - Aprendiendo Game Development (y cosas relacionadas a ello).
 - Parte del [club GameDev UC](https://www.instagram.com/gamedevcomuc/).
@@ -22,9 +23,8 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y utilizar punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser fuertemente tipado y tener objetos, pero aún no he escrito alguna tech demo en C#. Es muuuucho más fácil escribir clean code acá. |
 | C++ | Algún dia lo aprenderé... |
-| Python | Actualmente uso y desarrollo el generador de tests para las tareas de EDD (repo privado). |
-| Javascript | Puedo usar JS pero no me gustan las nested functions. |
-| PostgresSQL | Gracias por tanto pgsql perdon por tan poco. |
+| Java | Nunca he programado en Java pero es lo mismo que C# asi que lo voy a poner igual lmaoooo |
+Python, Javascript, Ruby, PostgreSQL, y otros más pero no tengo comentarios sobre ellos.
 
 ## Redes sociales
 
@@ -34,4 +34,3 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Criticar y comenta mi có
 | Linkedin (in progress...) | [Javier Larre](https://www.linkedin.com/in/javier-larre-57aaa82bb/) |
 | Discord | zab_zabieru |
 | Telegram | JavierLarre | 
-| LeetCode | [zabieru](https://leetcode.com/u/zabieru/)
