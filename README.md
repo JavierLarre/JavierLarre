@@ -31,7 +31,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Si tienes alguna duda sob
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser fuertemente tipado y tener objetos, pero aún no he escrito alguna tech demo en C#. Es muuuucho más fácil escribir clean code acá. |
 | C++ o Rust | Algún dia lo aprenderé |
 | Java | Nunca he programado en Java pero es lo mismo que C# asi que lo voy a poner igual lmaoooo |
-| Python, Javascript, Ruby, PostgreSQL, y otros más | Tengo experiencia variada en otros, pero no comentarios al respecto |
+| Python, Javascript, Ruby, PostgreSQL, y otros más | Tengo experiencia de diferentes niveles en más lenguajes |
 
 ## Redes sociales
 
