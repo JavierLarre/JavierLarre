@@ -6,12 +6,17 @@
 - Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Aspiring Game Developer
 - Nerd.
-- Ayudante en Fundamentos de lenguajes de programación (IIC2560) en 2526-1.
-- Ayudante en Tópicos en fundamentos de lenguajes de programación (IIC3560) en 2025-2
-- Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) en 2024-1 y 2024-2.
 - Me gusta [Touhou y el Metal](https://youtu.be/XPFLjLcH_Mo).
 - Parte del [club GameDev UC](https://www.instagram.com/gamedevcomuc/).
 - I love clean code.
+
+## Mis ayudantías
+
+| Curso | Sigla | Semestre |
+| ------------- | ------------- | ------------- |
+| Lenguajes de Programación | IIC2560 | 2026-1 |
+| Fundamentos en lenguajes de programación | IIC3560 | 2025-2 |
+| Estructuras de datos | IIC2133 | 2024-1 y 2024-2 |
 
 # Mis proyectos
 Revisa mis repos pineados para ver lo que he hecho!!!! Si tienes alguna duda sobre ellos no dudes en contactarme!!
