@@ -25,7 +25,7 @@ Revisa mis repos pineados para ver lo que he hecho!!!! Si tienes alguna duda sob
 
 | Algunos lenguajes que me gusta usar o donde he escrito proyectos. | Me gusta aprender estas cosas. |
 | ------------- | ------------- |
-| Pharo | Es un lenguaje poderoso, cómodo y divertido de trabajar |
+| [Pharo](https://en.wikipedia.org/wiki/Pharo) | Es un lenguaje poderoso, cómodo y divertido de trabajar |
 | GDScript | Ya he escrito unas cosas en GDScript, es muy simple y me gusta mucho. |
 | C | Definitivamente uno de mis favoritos, amo manejar memoria y utilizar punteros pero extraño los objetos. |
 | C# | C sharp, C hash o C gato pa los amigos. Otro favorito mio por ser fuertemente tipado y tener objetos, pero aún no he escrito alguna tech demo en C#. Es muuuucho más fácil escribir clean code acá. |
