@@ -6,6 +6,7 @@
 - Estudiante de 3er año de [licenciatura en computación UC](https://cienciadelacomputacion.uc.cl/).
 - Aspiring Game Developer
 - Nerd.
+- Ayudante en Fundamentos de lenguajes de programación (IIC2560) en 2526-1.
 - Ayudante en Tópicos en fundamentos de lenguajes de programación (IIC3560) en 2025-2
 - Ayudante en tareas de [estructuras de datos](https://github.com/IIC2133-PUC) en 2024-1 y 2024-2.
 - Me gusta [Touhou y el Metal](https://youtu.be/XPFLjLcH_Mo).
